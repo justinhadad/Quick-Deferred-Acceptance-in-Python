@@ -6,6 +6,6 @@ Matches are women-indexed, i.e. are in the format (woman, man). Values are drawn
 
 The program demonstrates, for randomly generated values, statistics on (1) regular MPDA, (2) the group-optimal truncation, (3) the gains from group-optimal truncation (aka WPDA),  (4) the gains from an extra man in the market, and (5) the gains from the worst-off woman leaving the market. These can be made trivially analagous to real-world scenarios.
 
-"Single Iteration with Steps.py" prints the series of proposals with the above statistics. "Single Iteration.py" returns average rank results in MPDA and WPDA.
+"Complete Stats.py" prints the series of proposals with the above statistics. "Single Iteration.py" returns average rank results in MPDA and WPDA.
 
 Values created using uniform iid numpy arrays and can be easily transformed.
